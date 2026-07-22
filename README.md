@@ -10,12 +10,13 @@
 
 ```ts
 const limecore = {
-  handle:   "Limekana",
-  role:     "indie developer, building my own tools",
-  based_in: "Helsinki, Finland 🇫🇮",
-  current:  "the Nexus OS — a personal software suite for my whole life",
-  fuel:     ["strength training 🏋️", "football analytics ⚽", "poker ♠️", "local AI 🤖"],
-  motto:    "if it doesn't exist the way I want it, I build it.",
+  handle: "Limekana",
+  role:   "indie dev, ships solo",
+  home:   "Helsinki, Finland 🇫🇮",
+  stack:  "TS · React · Supabase",
+  now:    "building the Nexus OS",
+  fuel:   "gym · football · poker · AI",
+  motto:  "want it? build it.",
 };
 ```
 
@@ -57,11 +58,25 @@ A connected suite of apps that run my day-to-day, all wired together through Sup
 
 </div>
 
+### 🐍 Watch me eat my contribution graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Limekana/Limekana/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
+
 ### 🌐 Find me
 
 [![Website](https://img.shields.io/badge/limecore.vercel.app-a3e635?style=for-the-badge&logo=vercel&logoColor=black)](https://limecore.vercel.app/)
 [![X / Twitter](https://img.shields.io/badge/@l1m3core-0a0f0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/l1m3core)
 
 <div align="center">
-<sub>⬢ Limecore · shipping from Helsinki · <img src="https://komarev.com/ghpvc/?username=Limekana&color=a3e635&style=flat-square&label=profile+views" alt="views" /></sub>
+
+<sub>⬢ &nbsp;<b>Limecore</b>&nbsp; · &nbsp;shipping from Helsinki 🇫🇮</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Limekana&color=a3e635&style=flat-square&label=profile+views" alt="profile views" />
+
 </div>
