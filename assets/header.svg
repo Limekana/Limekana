@@ -31,7 +31,7 @@
   <rect x="1" y="1" width="1198" height="328" rx="19" fill="none" stroke="#233a29" stroke-width="1.5"/>
 
   <!-- heartbeat / strength waveform, nods to limelog -->
-  <path d="M0 250 H300 l22 -46 l24 96 l26 -150 l24 100 l20 0 H1200"
+  <path d="M0 250 H770 l22 -46 l24 96 l26 -150 l24 100 l20 0 H1200"
         fill="none" stroke="url(#lime)" stroke-width="2" stroke-linejoin="round"
         stroke-linecap="round" opacity="0.35" filter="url(#soft)"/>
 
