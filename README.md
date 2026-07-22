@@ -30,7 +30,6 @@ A connected suite of apps that run my day-to-day, all wired together through Sup
 | 🏋️ **[limelog](https://github.com/Limekana/limelog)** | Periodized strength tracker — per-set RPE, injury gating, "lock in" workout view | React 18 · TypeScript · Capacitor |
 | 📚 **[StudyDesk](https://github.com/Limekana/StudyDesk)** | Study planner that fights procrastination — exam calendar, pomodoro, "next up" engine | JavaScript · Android |
 | ♠️ **[Felt](https://github.com/Limekana/Felt)** | Live poker chip & game dashboard — no chips, no problem | JavaScript |
-| ⚽ **[World-Cup-Monte-Carlo](https://github.com/Limekana/World-Cup-Monte-Carlo-script)** | Simulating tournaments a few million times to pick a winner | Python |
 
 ### 🧰 Tech I build with
 
