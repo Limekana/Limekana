@@ -11,12 +11,12 @@
 ```ts
 const limecore = {
   handle: "Limekana",
-  role:   "indie dev, ships solo",
-  home:   "Helsinki, Finland 🇫🇮",
-  stack:  "TS · React · Supabase",
-  now:    "building the Nexus OS",
-  fuel:   "gym · football · poker · AI",
-  motto:  "want it? build it.",
+  role: "indie dev, ships solo",
+  home: "Helsinki, Finland 🇫🇮",
+  stack: "TS · React · Supabase",
+  now: "building the Nexus OS",
+  fuel: "gym · basketball · poker · AI",
+  motto: "want it? build it.",
 };
 ```
 
