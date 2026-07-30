@@ -67,7 +67,7 @@ A connected suite of apps that run my day-to-day, all wired together through Sup
 
 ### 🌐 Find me
 
-[![Website](https://img.shields.io/badge/limecore.vercel.app-a3e635?style=for-the-badge&logo=vercel&logoColor=black)](https://limecore.vercel.app/)
+[![Website](https://img.shields.io/badge/limecore.dev-a3e635?style=for-the-badge&logo=vercel&logoColor=black)](https://limecore.dev/)
 [![X / Twitter](https://img.shields.io/badge/@l1m3core-0a0f0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/l1m3core)
 
 <div align="center">
