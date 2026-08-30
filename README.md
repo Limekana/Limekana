@@ -31,6 +31,16 @@ A connected suite of apps that run my day-to-day, all wired together through Sup
 | 📚 **[StudyDesk](https://github.com/Limekana/StudyDesk)** | Study planner that fights procrastination — exam calendar, pomodoro, "next up" engine | JavaScript · Android |
 | ♠️ **[Felt](https://github.com/Limekana/Felt)** | Live poker chip & game dashboard — no chips, no problem | JavaScript |
 
+### ☕ Support the build
+
+Every app in the suite is free, open source and ad-free. If something here saves you time, you can buy me a coffee — it goes straight back into shipping.
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J6K8240SNW)
+
+</div>
+
 ### 🧰 Tech I build with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
