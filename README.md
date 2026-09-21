@@ -28,6 +28,7 @@ A connected suite of apps that run my day-to-day, all wired together through Sup
 |---|---|---|
 | 🧭 **[nexus-command-center](https://github.com/Limekana/nexus-command-center)** | The hub — a cross-domain dashboard for my whole life | React · Capacitor · Supabase |
 | 🏋️ **[limelog](https://github.com/Limekana/limelog)** | Periodized strength tracker — per-set RPE, injury gating, "lock in" workout view | React 18 · TypeScript · Capacitor |
+| 🧠 **[Recall](https://github.com/Limekana/Recall)** | Local-first flashcards & quizzes — adaptive Learn mode, tests, spaced review, offline PWA | React 19 · TypeScript · Dexie · Capacitor |
 | 📚 **[StudyDesk](https://github.com/Limekana/StudyDesk)** | Study planner that fights procrastination — exam calendar, pomodoro, "next up" engine | JavaScript · Android |
 | ♠️ **[Felt](https://github.com/Limekana/Felt)** | Live poker chip & game dashboard — no chips, no problem | JavaScript |
 
